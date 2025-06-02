@@ -1,0 +1,7 @@
+streamlit
+geopandas
+rasterio
+shapely
+folium
+geopy
+numpy
